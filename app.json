@@ -1,17 +1,17 @@
 {
-  "name": "Cosmic Userbot",
-  "description": "A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.",
-  "logo": "https://github.com/SkyLab-Devs/CosmicUserbot/raw/demon/resources/Fizilion.png",
+  "name": "Cosmic bot",
+  "description": "A modular Telegram bot running on Python 3.8+ with an sqlalchemy database.",
+  "logo": "https://github.com/SkyLab-Devs/Cosmicbot/raw/demon/resources/Fizilion.png",
   "keywords": [
     "telegram",
-    "userbot",
+    "bot",
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SkyLab-Devs/CosmicUserbot",
-  "website": "https://t.me/CosmicUserbotChat",
-  "success_url": "https://t.me/CosmicUserbotChat",
+  "repository": "https://github.com/SkyLab-Devs/Cosmicbot",
+  "website": "https://t.me/CosmicbotChat",
+  "success_url": "https://t.me/CosmicbotChat",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -27,7 +27,7 @@
       "required": true
     },
     "HEROKU_MEMEZ": {
-      "description": "This should be True if the userbot is running on a Heroku Dyno.",
+      "description": "This should be True if the bot is running on a Heroku Dyno.",
       "value": "True",
       "required": true
     },
@@ -36,7 +36,7 @@
       "value": ""
     },
     "HEROKU_APP_NAME": {
-      "description": "Add the Heroku app name here. It helps with userbot updates.",
+      "description": "Add the Heroku app name here. It helps with bot updates.",
       "required": true
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -178,11 +178,11 @@
       "required": false
     },
     "WEATHER_DEFCITY": {
-      "description": "Set the default city for the userbot's weather module.",
+      "description": "Set the default city for the bot's weather module.",
       "required": false
     },
     "WEATHER_DEFLANG": {
-      "description": "Set the default language for the userbot's weather module.",
+      "description": "Set the default language for the bot's weather module.",
       "value": "en",
       "required": false
     },
@@ -199,7 +199,7 @@
       "required": false
     },
     "LOGSPAMMER": {
-      "description": "Set this to True in case you want the error logs to be stored in the userbot log group, instead of spitting out the file in the current chat, requires a valid BOTLOG_CHATID to be set.",
+      "description": "Set this to True in case you want the error logs to be stored in the bot log group, instead of spitting out the file in the current chat, requires a valid BOTLOG_CHATID to be set.",
       "value": "False"
     },
     "LOG_TAGGING": {

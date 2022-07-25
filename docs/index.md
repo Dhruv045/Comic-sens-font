@@ -1,6 +1,6 @@
 # Hello.
 ## Myself ElytrA8.
-Have a look at my [Repo](https://github.com/ElytrA8/ProjectFizilion) to deploy Fizilion USERBOT. 
+Have a look at my [Repo](https://github.com/ElytrA8/ProjectFizilion) to deploy Fizilion bot. 
 To use user bot we should have an idea about vars.
 ## envoirnment VARS.
 
@@ -18,7 +18,7 @@ To use user bot we should have an idea about vars.
 
 **GITHUB_ACCESS_TOKEN**: you can get this Value from the link given below [here](https://github.com/settings/tokens).
 
-**GIT_REPO_NAME**: This value is required to do commits through Userbot.
+**GIT_REPO_NAME**: This value is required to do commits through bot.
 
 **COUNTRY**: This value is required for Date , Time and Weather example:India.
 
@@ -80,7 +80,7 @@ To use user bot we should have an idea about vars.
 
 **WEATHER_DEFCITY**: City name for weather module.
 
-**LOGSPAMMER**: Set this to True in case you want the error logs to be stored in the userbot log group, instead of spitting out the file in the current chat, requires a valid BOTLOG_CHATID to be set.
+**LOGSPAMMER**: Set this to True in case you want the error logs to be stored in the bot log group, instead of spitting out the file in the current chat, requires a valid BOTLOG_CHATID to be set.
 
 # HEROKU
 What is Heroku?
@@ -93,7 +93,7 @@ if you already have an account or created one now click [here](https://heroku.co
 
 Now fill the required values
 
-And Done your userbot should be alive now
+And Done your bot should be alive now
 
 ## Gdrive
 [Click here](https://da.gd/so63O)

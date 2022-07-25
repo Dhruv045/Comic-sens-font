@@ -1,12 +1,12 @@
 <p align="center">
-   <a href="https://github.com/SkyLab-Devs/CosmicUserbot"><img src="https://github.com/SkyLab-Devs/CosmicUserbot/raw/starfire/resources/cosmic.jpg" alt="Fizi Logo" width=600px></a>
+   <a href="https://github.com/SkyLab-Devs/Cosmicbot"><img src="https://github.com/SkyLab-Devs/Cosmicbot/raw/starfire/resources/cosmic.jpg" alt="Fizi Logo" width=600px></a>
    <br>
    <br>
 </p>
 
-# Cosmic Userbot
+# Cosmic bot
 
-[![Build](https://img.shields.io/github/workflow/status/SkyLab-Devs/CosmicUserbot/FailedChecker?style=for-the-badge)](https://github.com/SkyLab-Devs/CosmicUserbot/actions "build")
+[![Build](https://img.shields.io/github/workflow/status/SkyLab-Devs/Cosmicbot/FailedChecker?style=for-the-badge)](https://github.com/SkyLab-Devs/Cosmicbot/actions "build")
 
 ![Spec](https://img.shields.io/badge/Made%20with-LOVE-black?style=for-the-badge)
 
@@ -44,11 +44,11 @@ curl -L https://git.io/Jyiwj > session_gen.sh && bash session_gen.sh
 ### Deploy on Heroku
 Make sure you have an account of heroku and follow all the steps required.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/SkyLab-Devs/CosmicUserbot/tree/demon"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/SkyLab-Devs/Cosmicbot/tree/demon"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Groups and Support
 
-For discussion, bug reporting, and help, you can join [Cosmic Userbot](https://t.me/CosmicUserbotChat) support group.
+For discussion, bug reporting, and help, you can join [Cosmic bot](https://t.me/CosmicbotChat) support group.
 For further guide you can read this [Guide](https://frost2k5.games/ProjectFizilion).
 
 
@@ -57,17 +57,17 @@ For further guide you can read this [Guide](https://frost2k5.games/ProjectFizili
 Thanks: 
 * [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 * [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
-* [kandnub](https://github.com/kandnub) - TG-UserBot
+* [kandnub](https://github.com/kandnub) - TG-bot
 * [AdekMaulana](https://github.com/adekmaulana) - ProjectBish
 * [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
 * [GengKapak](https://github.com/GengKapak) - DCLXVI
-* [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - OpenUserBot
+* [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - Openbot
 * [MoveAngel](https://github.com/MoveAngel) - One4U
 
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/SkyLab-Devs/CosmicUserbot/graphs/contributors).
+and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/SkyLab-Devs/Cosmicbot/graphs/contributors).
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/PrajjuS/ProjectFizilion/blob/demon/LICENSE) - Version 1.d, February 2020
+This bot licensed on [Raphielscape Public License](https://github.com/PrajjuS/ProjectFizilion/blob/demon/LICENSE) - Version 1.d, February 2020
 
 Graphics Copyrighted By [ElytrA8](https://t.me/ElytrA8) © 2021
